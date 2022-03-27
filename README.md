@@ -9,7 +9,7 @@ List of attributes:
 2. **Label**
 
 ## How to add
-To add theese custom attributes into your project you must first download the *Attributes* folder and add it somewhere in your unity project. Now you should be able to write [*Atribute name*] to use the attribute. 
+To add these custom attributes into your project you must first download the *Attributes* folder and add it somewhere in your unity project. Now you should be able to write [*Atribute name*] to use the attribute. 
 
 ## 1. Divider
 Draws a divider in the inspector window. You can aslo specify the height of the divider.
