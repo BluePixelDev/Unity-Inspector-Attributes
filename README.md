@@ -28,8 +28,8 @@ public float value2;
 ![Divider-Example](https://user-images.githubusercontent.com/78659109/160275364-9580e6f7-b39a-46b5-a949-a6f4dba63edb.png)
 
 ## 2. Label
-Draws a simple label/text. You can specify the text and style of the label by using [GUIStyle](https://docs.unity3d.com/ScriptReference/GUIStyle.html). 
-Default font style is ***bold and italic***.
+Draws a simple label/text. You can specify the text and style of the label by using [GUIStyle](https://docs.unity3d.com/ScriptReference/GUIStyle.html)
+>*Note:* Default font style is ***bold and italic*** and default font size is **10**.
 
 Usage:
 
