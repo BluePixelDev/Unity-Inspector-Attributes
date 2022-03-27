@@ -38,7 +38,7 @@ Usage:
 
 ##### Example:
 ```
-[Label]
+[Label("Hello")]
 public float value2;
 ```
 
